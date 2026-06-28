@@ -1,4 +1,4 @@
-## Hi there 👋
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thrkrif&theme=react-dark&bg_color=000000&color=00ff99&line=00ff99&point=00ff99&hide_border=true)](https://github.com/thrkrif)
 
 <!--
 **thrkrif/thrkrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
